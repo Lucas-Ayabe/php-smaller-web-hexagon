@@ -1,0 +1,20 @@
+{
+    "name": "terminal-coffe/smaller-web-hexagon",
+    "description": "Alistair Cockburn Hexagonal architecture example in PHP.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TerminalCoffe\\SmallerWebHexagon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas-Ayabe",
+            "email": "lucas.ayabe@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "^1.22"
+    }
+}

@@ -20,7 +20,9 @@ E então acesse <http://localhost:8080>, para interagir com a aplicação
 você pode usar dois query params: source e value. Ex:
 
 <http://localhost:8080?source=memory&value=100>
+
 <http://localhost:8080?source=database&value=100>
+
 <http://localhost:8080?source=json&value=100>
 
 Os valores possíveis para source são: memory, database e json.
